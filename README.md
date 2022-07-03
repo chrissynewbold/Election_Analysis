@@ -16,7 +16,7 @@ The data retrieved to analyze.
 - Data Source: election_results.csv
 - Software: Python 3.10.5, VS Code 1.68.1
 
-##Summary
+## Summary
 
 - There were 369,711 total votes from all 3 counties.
 - The Counties were:
